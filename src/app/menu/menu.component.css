@@ -1,3 +1,9 @@
+.botao  {
+  background-color: black;
+  padding: 10px;
+  border-radius: 5000px;
+}
+
 .example-spacer {
     flex: 1 1 auto;
   }
@@ -6,12 +12,13 @@ span{
     padding: 10px;
 }
 
-  img{
+img{
     height: 50px;
     width: 50px;  
-  }
+}
 
-  a{
+a{
     text-decoration: none;
     color: white;
-  }
+}
+

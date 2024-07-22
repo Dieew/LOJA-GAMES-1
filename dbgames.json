@@ -1,0 +1,25 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "produto": "Dark Souls 3",
+      "descricao": "RPG de ação",
+      "foto": "jogo1.jpg",
+      "preco": 300
+    },
+    {
+      "id": "2",
+      "produto": "GTA 5",
+      "descricao": "Desenvolvido pela Rockstar Games",
+      "foto": "jogo2.jpg",
+      "preco": 200
+    },
+    {
+      "id": "3",
+      "produto": "Ghost of Tsushima",
+      "descricao": "Ação e Aventura",
+      "foto": "jogo3.png",
+      "preco": 400
+    }
+  ]
+}
